@@ -14,4 +14,4 @@ Semantic elements describe the meaning of their contents, for example, `<p>` spe
 
 #### Structurally Based Elements
 
-![structrally-elements](assets/images/structrally-elements.png)
+![structrally-elements](assets/images/structurally-elements.png)
