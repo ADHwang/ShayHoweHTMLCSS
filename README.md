@@ -11,3 +11,7 @@ Semantic elements describe the meaning of their contents, for example, `<p>` spe
 
 - `<div>`: a block-level element that is commonly used to identify a large group of contents.
 - `<span>`: an inline-level element that is commonly used to identify a smaller group of contents.
+
+#### Structurally Based Elements
+
+![structrally-elements](assets/images/structrally-elements.png)
